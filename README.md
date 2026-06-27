@@ -35,9 +35,9 @@ Open `index.html` directly in your browser.
 5. Select the `main` branch and `/root` folder.
 6. Save, then wait for GitHub Pages to publish the site.
 
-Your site URL will look like:
+My site URL will look like:
 
-`https://YOUR_USERNAME.github.io/cookflow/`
+`https://brilliant-sunburst-7f2472.netlify.app`
 
 ## Suggested repo description
 
